@@ -1,0 +1,4 @@
+anonympy==0.3.7
+cape-privacy==0.3.0 --no-deps
+scikit-learn==1.0.2
+pandas==1.4.2
